@@ -18,4 +18,3 @@ FLiP Stack Links - utilizing Apache Pulsar, Apache Flink, Apache NiFi, Apache Sp
 * https://www.slideshare.net/bunkertor/using-the-flipn-stack-for-edge-ai-flink-nifi-pulsar
 * https://adtmag.com/webcasts/2021/12/influxdata-february-10.aspx?tc=page0
 * https://github.com/tspannhw/SpeakerProfile/tree/main/2021/talks
-* 
